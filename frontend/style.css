@@ -1,0 +1,41 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+h1, h2 {
+  color: #343a40;
+}
+
+input, button {
+  padding: 8px;
+  margin: 5px;
+  font-size: 14px;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  color: white;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#itemList {
+  margin-top: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+  padding: 8px;
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  list-style-type: none;
+}

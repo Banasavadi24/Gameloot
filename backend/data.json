@@ -1,0 +1,14 @@
+[
+  {
+    "title": "FIFA 22",
+    "type": "CD",
+    "price": 25,
+    "status": "available"
+  },
+  {
+    "title": "PS4 Console",
+    "type": "console",
+    "price": 180,
+    "status": "rented"
+  }
+]
