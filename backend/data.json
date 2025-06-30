@@ -10,5 +10,12 @@
     "type": "console",
     "price": 180,
     "status": "rented"
+  },
+  {
+    "title": "FIFA 23",
+    "type": "CD",
+    "price": 30,
+    "status": "available"
+
   }
 ]
