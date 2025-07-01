@@ -1,21 +1,22 @@
-[
-  {
-    "title": "FIFA 22",
-    "type": "CD",
-    "price": 25,
-    "status": "available"
-  },
-  {
-    "title": "PS4 Console",
-    "type": "console",
-    "price": 180,
-    "status": "rented"
-  },
-  {
-    "title": "FIFA 23",
-    "type": "CD",
-    "price": 30,
-    "status": "available"
-
-  }
-]
+{
+  "items": [
+    {
+      "title": "FIFA 22",
+      "type": "CD",
+      "price": 25.00,
+      "status": "available"
+    },
+    {
+      "title": "PS4 Console",
+      "type": "console",
+      "price": 180.00,
+      "status": "rented"
+    },
+    {
+      "title": "FIFA 23",
+      "type": "CD",
+      "price": 30.00,
+      "status": "available"
+    }
+  ]
+}
