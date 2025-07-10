@@ -56,6 +56,10 @@ def add_item():
     write_data(data)
     return jsonify(new_item_data), 201 # 201 Created
 
+@app.route('/')
+def home():
+    return "Gameloot API is running! Try /items"
+
 # WARNING: Deleting by index is highly discouraged for real APIs.
 # It's fragile and can lead to incorrect deletions if the list changes.
 # A robust solution requires a unique ID for each item.
